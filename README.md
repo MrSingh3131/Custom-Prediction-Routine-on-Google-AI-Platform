@@ -15,7 +15,6 @@ Project Structure
 The project on Custom Prediction Routine on Google AI Platform is divided into following tasks:
 
 - Task 1: Introduction
-Introduction to the Rhyme interface.
 Introduction to the project.
 
 
