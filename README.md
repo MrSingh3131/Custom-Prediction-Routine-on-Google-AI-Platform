@@ -62,3 +62,12 @@ Creating a model version.
 Setting up a method for prediction using Google services.
 Creating the request body.
 Taking a look at the final predictions.
+
+
+Certificate Details
+- Name: Custom Prediction Routine on Google AI Platform
+- Issuing Organization: Coursera
+- Issue Date: May 2020
+- Expiration Date: This certification does not expire
+- Credential ID: DKTAYXE6YEKD
+- Credential URL: https://www.coursera.org/account/accomplishments/certificate/DKTAYXE6YEKD
