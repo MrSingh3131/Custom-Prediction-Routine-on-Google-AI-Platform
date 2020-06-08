@@ -9,7 +9,7 @@ In this course, I am going to focus on two learning objectives:
 - Use a model deployed on Google AI Platform for inference.
 
 
-By the end of this course, I was able to create and deploy custom prediction routines with Google AI Platform.
+By the end of this course, I was able to create and deploy a model with custom prediction routines on Google AI Platform.
 
 Project Structure
 The project on Custom Prediction Routine on Google AI Platform is divided into following tasks:
